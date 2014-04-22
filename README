@@ -1,6 +1,6 @@
 module_skel
 
-This is the module_skel module.
+Hello world example, with rspec and travis-ci integration.
 
 License
 -------
